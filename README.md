@@ -15,4 +15,4 @@
 กรุณาเปิด Terminal ในโฟลเดอร์ของโปรเจกต์ และใช้คำสั่งดังนี้:
 
 ```bash
-python -m robot -v PASSWORD:RockZee040848@ testRF02.robot
+python -m robot -v PASSWORD:your_password_here testRF02.robot
